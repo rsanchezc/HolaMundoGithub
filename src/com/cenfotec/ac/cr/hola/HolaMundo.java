@@ -10,8 +10,8 @@ package com.cenfotec.ac.cr.hola;
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		System.out.println("Italiano");
-		System.out.println("Ciao Mondo");
+		System.out.println("Frances");
+		System.out.println("Bonjour Monde");
 	}
 }
 	
